@@ -6,6 +6,12 @@
 Copy env example and add api user and key
 ```
     cp .env_example .env
+  
+``` 
+
+Download dependencies:
+```
+     npm install
 ``` 
 
 To run:
