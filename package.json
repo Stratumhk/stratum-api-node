@@ -1,0 +1,17 @@
+{
+  "name": "stratum-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.1.0",
+    "qs": "^6.5.2"
+  }
+}
